@@ -50,8 +50,8 @@ const config = {
             label: 'Admin Documentation',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/pinnacles-web-app/documentation',
+            label: 'Edit documentation',
             position: 'right',
           },
         ],
