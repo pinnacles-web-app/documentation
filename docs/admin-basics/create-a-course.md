@@ -47,6 +47,12 @@ In the **Price Information** section, please fill up the following information:
 - **Pricing model**: Standard pricing
 - **Price**: Put the price of the course. Select One time.
 
+:::note
+Because Stripe take 3% + RM1.00 as transaction free, plus an additional 0.4% per paid invoice.
+
+Please use RM2.00 or more. 
+:::
+
 ![Save product](/img/admin/stripeSaveProduct.png)
 
 If you have fill up the form, click on the **Save Product** button on the top right corner.
