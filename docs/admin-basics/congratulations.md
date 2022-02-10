@@ -11,6 +11,8 @@ Anything **unclear** or **buggy** in this tutorial? Please report it.
 ## What next? (optional)
 - You can go back to the participant dashboard, and double check if the information is correctly displayed.
 - You can book a course and pay for it.
+- You can explore Stripe Dashboard by following the [extras section](/docs/admin-extras/extra-navigating-stripe-dashboard).
+
 
 :::note
 If you sign out and go back to the marketing pages, you will see that none of the courses you created is display.
