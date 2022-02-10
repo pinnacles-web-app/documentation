@@ -20,4 +20,4 @@ In your Stripe Dashboard, you will see the following layout:
 > **Example business model**: A marketplace platform where trainers can create and sell their courses. User can pay for the course. The marketplace provider can earn a percentage from the sale. And the money will **automatically** goes to the specific trainer bank account.)
 
 10. The **Developers button** is for **developer** to get authetication keys for integrating Stripe to their application backend.
-11. The **Test mode button** is for **developer** to create fake products and customers for testing with their application.The Test
+11. The **Test mode button** is for **developer** to create fake products and customers for testing with their application.
