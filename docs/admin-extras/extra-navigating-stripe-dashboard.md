@@ -17,7 +17,7 @@ In your Stripe Dashboard, you will see the following layout:
 8. The **Reports button** is where you can generate report in PDF or csv format.
 9. The **Connect button** is for **developer** to integrate Stripe to create more advanced business model for a company. 
  
-> **Example business model**: A marketplace where trainers can create and sell their courses. User can pay for the course. The marketplace provider can earn a percentage from the sale. And the money will **automatically** goes to the specific trainer bank account.)
+> **Example business model**: A marketplace platform where trainers can create and sell their courses. User can pay for the course. The marketplace provider can earn a percentage from the sale. And the money will **automatically** goes to the specific trainer bank account.)
 
 10. The **Developers button** is for **developer** to get authetication keys for integrating Stripe to their application backend.
 11. The **Test mode button** is for **developer** to create fake products and customers for testing with their application.The Test
